@@ -1,0 +1,4 @@
+name: randomblockdrops
+version: '${version}'
+main: cepteas.randomblockdrops.Randomblockdrops
+api-version: '1.20'
